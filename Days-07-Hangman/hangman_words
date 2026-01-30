@@ -1,0 +1,9 @@
+word_list = [
+    "apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew",
+    "iceberg", "jackfruit", "kiwi", "lemon", "mango", "nectarine", "orange", "papaya",
+    "quince", "raspberry", "strawberry", "tangerine", "ugli", "vanilla", "watermelon",
+    "xigua", "yam", "zucchini", "avocado", "blueberry", "cantaloupe", "dragonfruit",
+    "eggplant", "feijoa", "grapefruit", "huckleberry", "imbe", "jambul", "kumquat",
+    "lime", "mulberry", "nectar", "olive", "pineapple", "quararibea", "rambutan",
+    "sapodilla", "tomato", "ugni", "voavanga", "wolfberry", "yuzu"
+]
